@@ -39,6 +39,6 @@ I am Mengistu Ashebir Tesfay, currently working as a Software Engineer. I am a F
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Mengesha9&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MengistuAshebir&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mengesha9&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mengesha9.Mengesha9)
