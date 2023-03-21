@@ -1,7 +1,7 @@
 # mengesha9
 
 ### Hi there 👋
-I am Mengistu Ashebir Tesfay, currently working as a Software Engineer. I am a Full-Stack,mobile application developer and machine learning Enthusiast.I love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Mengistu Ashebir, currently working as a Software Engineer. I am a Full-Stack,mobile application developer and machine learning Enthusiast.I love writing clean and maintainable code and solving problems. Find out more about me & feel free to connect with me here:
 
      
 
